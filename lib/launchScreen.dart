@@ -10,7 +10,7 @@ class Launch extends StatelessWidget {
       backgroundColor: Colors.amberAccent,
       body: Center(
         child: Text(
-          "左上のサイドバーから\n好きなアプリにとんでね",
+          "左上のサイドバーから\n好きなアプリを選んでね",
           style: TextStyle(
             fontSize: 30
           ),
